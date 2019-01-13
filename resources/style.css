@@ -1,0 +1,54 @@
+
+body {
+    height:100%;
+    font-family: Georgia;
+    background-image: url("https://i.stack.imgur.com/HCfU2.png");
+    background-position: center;
+    
+}
+
+h1 {
+    font-size: 150px;
+    color:rgb(253, 231, 106);
+    text-align: center;
+}
+.header {
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+    opacity: 1;
+}
+#brushes, #frames, #paint {
+    font-size: 35px;
+    opacity: 1;
+    text-align: left;
+    color: whitesmoke;
+}
+
+#brushes {
+    background-color: rgb(10, 202, 209);
+
+}
+
+#frames {
+    background-color: rgb(235, 114, 114)
+    
+}
+
+#paint {
+    background-color: rgb(133, 206, 133);
+}
+
+h2 {
+    font-family: cursive;
+}
+h3 {
+    font-family:Helvetica;
+}
+
+p {
+    font-size: 17px;
+}
+
+strong {
+    font-weight: bold;
+    color:rgb(45, 81, 201);
+}
